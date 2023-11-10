@@ -1,0 +1,172 @@
+<mxfile host="ac.draw.io" modified="2022-11-17T08:12:55.545Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="WooC6z0h5lFmhQrenQqf" version="20.5.3" type="embed">
+  <diagram id="6_nm4cYSIQNWnTirx9vD" name="Page-1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LenSEDaWyG19VX3wVpNb-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="185" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-1" target="LenSEDaWyG19VX3wVpNb-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-3" target="LenSEDaWyG19VX3wVpNb-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-3" value="Rapid Calculator Recommendation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-10" target="LenSEDaWyG19VX3wVpNb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-10" value="Save contact and deal in Freshsales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-16" target="LenSEDaWyG19VX3wVpNb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-16" value="Generate PDF Proposal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-24" target="Rf9DeDrIgRmxoYhkhdjf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-24" value="User fills in smart sheet form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-25" target="Rf9DeDrIgRmxoYhkhdjf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-25" value="Finance requests to Sales to ask for AB consent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-28" target="LenSEDaWyG19VX3wVpNb-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-36" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LenSEDaWyG19VX3wVpNb-34">
+          <mxGeometry x="0.1667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-28" target="LenSEDaWyG19VX3wVpNb-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="1160" />
+              <mxPoint x="240" y="1350" />
+            </Array>
+            <mxPoint x="250" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-43" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LenSEDaWyG19VX3wVpNb-42">
+          <mxGeometry x="-0.8074" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-28" value="Accept African Bank process?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-33" target="LenSEDaWyG19VX3wVpNb-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-33" value="Send lead to AB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WHqm5tmuSCRBtChqdftT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-37" target="WHqm5tmuSCRBtChqdftT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-37" value="Update Freshsales with user&#39;s consent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-39" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1502" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-45" value="Determination for AB financing is made by finance team" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="570" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-47" value="Wetility to advise how they mark deals going through African Bank" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="860" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-49" target="LenSEDaWyG19VX3wVpNb-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-49" target="Rf9DeDrIgRmxoYhkhdjf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-49" value="SFTP gets new file" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-54" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="665" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-55" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LenSEDaWyG19VX3wVpNb-56" target="LenSEDaWyG19VX3wVpNb-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-56" value="Update Freshsales per ID number which is approved/rejected" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LenSEDaWyG19VX3wVpNb-58" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="665" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rf9DeDrIgRmxoYhkhdjf-2" target="LenSEDaWyG19VX3wVpNb-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-5" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="Rf9DeDrIgRmxoYhkhdjf-4">
+          <mxGeometry x="-0.5125" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf9DeDrIgRmxoYhkhdjf-2" target="LenSEDaWyG19VX3wVpNb-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="680" />
+              <mxPoint x="40" y="1517" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-15" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="Rf9DeDrIgRmxoYhkhdjf-14">
+          <mxGeometry x="-0.9418" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-2" value="Should AB financing be considered for lead?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf9DeDrIgRmxoYhkhdjf-6" target="Rf9DeDrIgRmxoYhkhdjf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-6" value="Sales updates Freshsales field for consent request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf9DeDrIgRmxoYhkhdjf-8" target="LenSEDaWyG19VX3wVpNb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-8" value="Freshsales automation sends email with link to give consent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf9DeDrIgRmxoYhkhdjf-16" target="LenSEDaWyG19VX3wVpNb-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf9DeDrIgRmxoYhkhdjf-16" value="Send email to finance with all info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WHqm5tmuSCRBtChqdftT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WHqm5tmuSCRBtChqdftT-1" target="LenSEDaWyG19VX3wVpNb-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WHqm5tmuSCRBtChqdftT-1" value="Send email to finance (notify that lead has been sent or not sent to AB)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
